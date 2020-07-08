@@ -1,0 +1,22 @@
+.paper {
+    display: flex;
+    flex-direction: column;
+}
+.form {
+    width: 100%;
+    margin-bottom: 16px;
+    display: flex;
+    box-sizing: border-box;
+    padding: 6px 16px 0 6px;
+}
+.button {
+    margin-left: 16px !important;
+    flex-grow: 1;
+    color: green !important;
+    border: 1px solid green !important;
+}
+.textfield {
+    flex-grow: 3;
+}
+
+
